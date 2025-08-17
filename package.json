@@ -1,7 +1,7 @@
 {
   "name": "cypha-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "echo # Cypha Backend>README.md\r echo >>README.md\r echo Express + Socket.IO API for CyphaEnt.>>README.md\r echo >>README.md\r echo ## Dev>>README.md\r echo npm install>>README.md\r echo npm run dev>>README.md\r echo ^# http://localhost:3001/health>>README.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyphaServices/cypha-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyphaServices/cypha-backend/issues"
+  },
+  "homepage": "https://github.com/CyphaServices/cypha-backend#readme"
 }
